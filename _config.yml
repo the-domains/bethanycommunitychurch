@@ -1,4 +1,3 @@
-layout_spectrum: 0.35180498845875263
 typography_spectrum: 0.8246336581651121
 color:
   brandStrength: 0.18896735808812082
@@ -11,4 +10,8 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+opengraph:
+  type: ''
+layout_spectrum: 0.35180498845875263
 name: BethanyCommunityChurch
+title: Where Jesus' Friends Gather
